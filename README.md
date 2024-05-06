@@ -8,4 +8,4 @@ nike account gen with autobrowse and cookie saving
 4. Autobrowse loads in accs and runs thru an autobrowse mode, funcs can be edited to add length in browsing or clicks
 5. Cookie Saver saves cookies of acc sessions to utilize later on in autobrowse
 6. DRIVERLESS IS A NON COMMERCIAL LICENSE, PLEASE CONTACT KALI https://github.com/kaliiiiiiiiii/Selenium-Driverless IF WANTED TO USE
-7. Leave a star! You can message me on discord @bosniankicks :) 
+7. Leave a star! Id greatly appreciate it <3 ! You can message me on discord @bosniankicks :) 
