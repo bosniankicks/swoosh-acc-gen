@@ -10,3 +10,6 @@ nike account gen with autobrowse and cookie saving
 6. USES 5 SIM for Verif (0.03 USD PER NIKE ACC)
 7. DRIVERLESS IS A NON COMMERCIAL LICENSE, PLEASE CONTACT KALI https://github.com/kaliiiiiiiiii/Selenium-Driverless IF WANTED TO USE
 8. Leave a star! Id greatly appreciate it <3 ! You can message me on discord @bosniankicks :) 
+
+
+-- Code is shown as is, there is no warranty and I am not subject to any liability within how the code is used. 
