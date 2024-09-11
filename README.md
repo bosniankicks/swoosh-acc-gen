@@ -13,3 +13,7 @@ nike account gen with autobrowse and cookie saving
 
 
 -- Code is shown as is, there is no warranty and I am not subject to any liability within how the code is used. 
+# Capsolver Sponsor
+
+
+Alterntaively you may use Capsolver. For more information and to get started, visit the official [Capsolver website](https://www.capsolver.com/).
